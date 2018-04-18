@@ -1,0 +1,8 @@
+2x Trafo Core
+5m Bobin Teli 
+2x 1 Faz doðrultucu köprü
+4x Fast Switching Mosfet (450V)
+3x Diode 
+4x Inductor (For Filter-25uH)
+4x Capacitor (For DC Link 40V- 100uF)
+1x DC Link Capacitor at high voltage side 6800uF eski projeden kalma
